@@ -1,0 +1,26 @@
+﻿  Building 'MyARKDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MyARKDriver.inf
+  Stamping [Version] section with DriverVer=12/28/2019,16.33.26.144
+  data.c
+  Driver.c
+  KernelFunction.c
+  Tool.c
+  正在生成代码...
+  MyARKDriver.vcxproj -> C:\Users\Canary\source\repos\MyARKDriver\Debug\MyARKDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Canary\source\repos\MyARKDriver\Debug\MyARKDriver.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Canary\source\repos\MyARKDriver\Debug\MyARKDriver\myarkdriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Canary\source\repos\MyARKDriver\Debug\MyARKDriver\myarkdriver.cat
+  
